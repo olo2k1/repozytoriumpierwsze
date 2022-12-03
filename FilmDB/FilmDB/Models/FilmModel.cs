@@ -9,6 +9,6 @@ namespace FilmDB.Models
     {
         public int ID { get; set; }
         public string Title { get; set; }
-        public int year { get; set; }
+        public int Year { get; set; }
     }
 }
